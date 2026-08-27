@@ -12,7 +12,7 @@
 #       senao se queijo nao e presunto sim
 #           voce tem um misto so de presunto
 #       senao
-#           voce tem um misto so de presunto
+#           voce nao tem nem queijo e nem presunto
 #   senao
 #       voce nao tem a faca
 #senao
